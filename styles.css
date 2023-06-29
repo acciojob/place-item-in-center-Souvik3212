@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	display : flexbox;
 }
-.container .item{
+.holder .item{
 	display : flex;
 	justify-content : center;
 }
